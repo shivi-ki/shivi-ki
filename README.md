@@ -21,7 +21,7 @@ Incoming physics major at UC Berkeley exploring in particle physics, scientific 
 ⚡ Fun facts:
   - Art history enthusiast
   - Massive Batman/DC fan
-  - passionate about upcycled fashion
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "When the sun has set, one can see the evening stars." 
