@@ -3,7 +3,9 @@
 Incoming physics major at UC Berkeley exploring particle physics, computing, and instrumentation design
 
 🔭 Current Projects:
-    - Standard Model Guide 
+
+    Standard Model Guide 
+    
     Developing an interactive web application visualizing all Standard Model particles through dynamic UI components via React and Vite
     Designing UI and web pages while researching indepth information about each particle and its key attributes
     Implementing searchable particle profiles displaying physical properties, interactions, and decay information
