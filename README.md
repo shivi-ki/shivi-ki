@@ -1,20 +1,21 @@
 ## Hi there 👋 I'm Shivi! 
 
-Incoming physics major at UC Berkeley exploring in particle physics, scientific computing, AI/ML 
+Incoming physics major at UC Berkeley exploring particle physics, computing, and instrumentation design
 
 🔭 Current Projects:
+    - Standard Model Guide 
+    Developing an interactive web application visualizing all Standard Model particles through dynamic UI components via React and Vite
+    Designing UI and web pages while researching indepth information about each particle and its key attributes
+    Implementing searchable particle profiles displaying physical properties, interactions, and decay information
+    Integrating interactive visualizations to better explain concepts such as quark coupling and force carrier interactions to translate complex physics exoterically
 
-    🌌 Computational Physics
-       Simulations of physical systems using Python, NumPy, and SciPy
 
-    🚀 Career Quest 
-        Full-stack interactive platform visualzing academic, research and project journey
-        designed as a dynamic alternative to a traditional resume, better conveying my narrative 
 
 🌱 I’m currently learning:
   - Machine Learning Fundamentals (Coursea, Microsoft Learn, etc)
   - Full stack development
   - Python, C++, JS
+  - Front-end Dev + frameworks (Node.js, React, Tailwind CSS)
   - Statistical modeling and data analysis
   - High energy physics
 
