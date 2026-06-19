@@ -2,17 +2,12 @@
 
 Incoming physics major at UC Berkeley exploring particle physics, computing, and instrumentation design
 
-🔭 Current Projects:
-
-    Standard Model Guide 
+🔭 I’m currently working on:
+  - Standard Model Guide App
     
-    Developing an interactive web application visualizing all Standard Model particles through dynamic UI components via React and Vite
-    Designing UI and web pages while researching indepth information about each particle and its key attributes
-    Implementing searchable particle profiles displaying physical properties, interactions, and decay information
-    Integrating interactive visualizations to better explain concepts such as quark coupling and force carrier interactions to translate complex physics exoterically
-
-
-
+    Develop dynamic webpage app visualizing all particles on the standard model via interactive UI to break down complex concepts
+    Implepment details particle profiles including physics and history background, interactions, decay info, etc.
+    
 🌱 I’m currently learning:
   - Machine Learning Fundamentals (Coursea, Microsoft Learn, etc)
   - Full stack development
@@ -35,7 +30,7 @@ Heraclitus
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
